@@ -1,133 +1,47 @@
-**📍 Page 1 — Mental Health & Social Media Overview**
+## 🧠 Mental Health & Social Media Insights Dashboard Summary
 
-This page provides a high-level snapshot of digital-wellbeing metrics across the full population:
+## 🌍 Mental Health & Social Media Insights (Analysis)
 
-Average daily screen time: 5.53 hours
+This project provides an in-depth analysis of how screen time, social media usage, offline behavior, and lifestyle patterns influence mental well-being indicators such as stress, happiness, sleep quality, and exercise frequency.
 
-Average stress level: 6.62 (on a 10-point scale)
+It highlights digital well-being patterns, comparative platform usage, and key risk demographics based on collected user data.
 
-High stress population: 29%
+---
 
-Low happiness population: 1%
+### 📊 Key Metrics Summary
 
-Users taking offline days: 61.6%
+* Average Daily Screen Time: **5.53 hours** * Average Stress Level: **6.62** * Total High-Stress Population: **29%** * Percentage of Users Taking Offline Days: **61.60%** 
+These metrics reflect the baseline digital exposure and mental state across the analyzed population.
 
-**⭐ Key Behavioral Insights**
+---
 
-Users with more than 5 hours/day of screen time report 32% higher stress levels.
+### 🌟 Key Insights
 
-Taking 3 or more offline days per month boosts happiness by 1.8 points on average.
+* Users with **more than 5 hours/day** of screen exposure experience **32% higher stress levels** (Stress $\geq 5$ hrs is $7.05$ vs $\leq 4$ hrs is $5.24$) .
+* Taking **3+ offline days/month** (Moderate Breaks) significantly **boosts happiness to 8.49** compared to No Breaks (8.06), an increase of **+1.8 points** is cited in the overview image .
+* **TikTok users** demonstrate the **highest stress (6.59)** and **lowest happiness (8.38)** among major platforms .
+* Ages **15–20** and **26–30** are identified as the **most vulnerable demographics** (Age 26–30 has Highest Stress: 6.80 and Lowest Sleep Quality: 5.87) .
 
-Frequent exercisers (3+ sessions/week) score higher on happiness and better sleep.
+---
 
-TikTok users show the highest stress and lowest happiness among all platforms.
+### 🧩 Dashboard Page Summaries
 
-Age 15–20 emerges as a vulnerable group: high stress + low happiness + high screen time.
+#### **Page 1: Mental Health & Social Media Overview**
 
-**This page answers:**
-👉 What are the overall digital-wellbeing patterns?
-👉 Who is at risk?
-👉 How does screen addiction affect stress?
+* **Interpretation:** Acts as the dashboard’s **“health check,”** revealing risk areas in digital well-being.
+* **Vulnerability:** Ages **15–20** show the highest vulnerability group (high stress + low happiness) .
 
-**📍 Page 2 — Screen Time & Mental State**
-🔎 What This Page Shows
+#### **Page 2: Screen Time & Mental State**
 
-This page dives deeper into screen addiction levels (Very Low → High) and how each group differs in:
+* **Interpretation:** Clearly demonstrates the **negative diminishing returns** of excessive digital exposure on mental health.
+* **Tipping Point:** **5 hours/day** is the psychological tipping point where **Stress rises sharply (from 5.24 to 7.05)** and **Happiness drops noticeably (from 9.68 to 7.94)** .
 
-Stress levels
+#### **Page 3: Social Media Platforms & Habit Impact**
 
-Happiness levels
+* **Interpretation:** Different platforms create **distinct psychological footprints**. **LinkedIn users** maintain the **healthiest well-being** while **Instagram** has the highest screen exposure (**6.08 hrs/day**) .
 
-Daily screen time habits
+#### **Page 4: Risk Segmentation**
 
-**⭐ Insights**
-
-Screen time above 5 hours/day is a clear tipping point where:
-
-Stress spikes sharply (6.44 → 7.05)
-
-Happiness drops (10 → 7.94)
-
-Users with very low screen time (1–2 hours) consistently score:
-
-Highest happiness (10.0)
-
-Lowest stress (4.33)
-
-Moderate screen users (3–4 hours) already show early signs of increased stress.
-
-Exercise appears as a buffer: even with moderate screen time, active users maintain lower stress.
-
-**This page answers:**
-👉 How does screen time influence emotional well-being?
-👉 Where is the tipping point for negative mental effects?
-👉 Which groups maintain good balance?
-
-**📍 Page 3 — Social Media Platforms & Habit Impact**
-🔎 What This Page Shows
-
-This page compares major platforms (Instagram, Facebook, YouTube, TikTok, LinkedIn, X/Twitter) on:
-
-Average screen time
-
-Average stress
-
-Average happiness
-
-Impact of offline days
-
-**⭐ Insights**
-
-Instagram users have the highest screen time (6.08 hrs/day).
-
-TikTok users show the highest stress (6.59) and lowest happiness (8.38).
-
-LinkedIn users show healthiest patterns — lowest stress + high sleep quality.
-
-Taking 3–5 offline days results in the highest happiness score (8.49).
-
-Users with no offline days show higher stress (6.75) and lower happiness.
-
-**This page answers:**
-👉 Which platforms contribute most to stress?
-👉 Which platforms are associated with healthier habits?
-👉 How do offline breaks impact mood and stress?
-
-**📍 Page 4 — Risk Segmentation**
-🔎 What This Page Shows
-
-This final analytic page identifies high-risk groups by comparing:
-
-Stress
-
-Happiness
-
-Sleep quality
-
-Screen time
-
-Exercise frequency
-across age groups, gender, and social media platforms.
-
-**⭐ Insights**
-
-Age 26–30 is the highest-risk group:
-
-Highest stress
-
-Poorest sleep
-
-Medium happiness
-
-Instagram and TikTok users show worse well-being compared to other platforms.
-
-LinkedIn users stand out with healthier patterns — likely due to professional usage.
-
-Happiness rises noticeably after age 30, especially for users aged 31–35 and 36–40.
-
-Low exercise frequency strongly correlates with higher stress + poor sleep.
-
-**This page answers:**
-👉 Who is most at risk?
-👉 Does age affect digital well-being?
-👉 How do platform usage patterns differ across demographics?
+* **Interpretation:** Identifies target groups that require digital wellness interventions.
+* **Highest Risk:** Age **26–30** is the **highest-stress age group (6.80)** and reports the **poorest sleep quality (5.87)** .
+* **Protective Factor:** **Low exercise frequency** correlates strongly with **higher stress and worse sleep**, regardless of age .
