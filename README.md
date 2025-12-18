@@ -10,7 +10,10 @@ It highlights digital well-being patterns, comparative platform usage, and key r
 
 ### 📊 Key Metrics Summary
 
-* Average Daily Screen Time: **5.53 hours** * Average Stress Level: **6.62** * Total High-Stress Population: **29%** * Percentage of Users Taking Offline Days: **61.60%** 
+* Average Daily Screen Time: **5.53 hours**
+* Average Stress Level: **6.62**
+* Total High-Stress Population: **29%**
+* Percentage of Users Taking Offline Days: **61.60%** 
 These metrics reflect the baseline digital exposure and mental state across the analyzed population.
 
 ---
